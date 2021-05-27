@@ -1,4 +1,5 @@
 name: Damageindicator
-version: ${project.version}
+version: 1.0
 main: eu.zzagro.damageindicator.Damageindicator
-authors: [ zZagro ]
+depend:
+  - NBTAPI
