@@ -1,0 +1,4 @@
+name: Damageindicator
+version: ${project.version}
+main: eu.zzagro.damageindicator.Damageindicator
+authors: [ zZagro ]
